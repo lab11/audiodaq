@@ -1,0 +1,14 @@
+Qty Value             Device                         Package                     Parts       Description                
+1                     3.5JACK4CONNSUNSTONE_QUICKTURN PLUGBOARDCONNECTOR_SUNSTONE J4                                     
+3   0.1u              C-EUC0603                      C0603                       C1, C2, C14 CAPACITOR, European symbol 
+1   1000p             C-EUC0603                      C0603                       C15         CAPACITOR, European symbol 
+2   1u                C-EUC0603                      C0603                       C5, C6      CAPACITOR, European symbol 
+1   200k              R-US_R0603                     R0603                       R4          RESISTOR, American symbol  
+1   560k              R-US_R0603                     R0603                       R3          RESISTOR, American symbol  
+3   HEADER10POS       HEADER10POS                    10PIN2MMHEADER              J1, J2, J3  Fits 3M 950510-6102-AR     
+1   ICM7555           ICM7555                        SOIC                        U1                                     
+1   KSR-NC-SWSTD      KSR-NC-SWSTD                   KSR_SWITCH                  J5                                     
+1   MAX4781           MAX4781                        TSSOP-16                    U3                                     
+1   SN74LV161ATSSOP16 SN74LV161ATSSOP16              TSSOP16                     U2
+1   TBD               R-US_R0603                     R0603                       R5          RESISTOR, American symbol
+1   TPS79718-Q1SO70   TPS79718-Q1SO70                SC70                        U4
